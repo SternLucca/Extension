@@ -3,7 +3,7 @@
     "description": "Minha primeira extensão",
     "version": "1.0",
     "manifest_version": 3,
-    "permissions": ["activateTab", "scripting"],
+    "permissions": ["activeTab", "scripting"],
     "action": {
         "default_popup": "index.html"
     }
